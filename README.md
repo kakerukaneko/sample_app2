@@ -1,10 +1,10 @@
 # Ruby on Rails チュートリアルのサンプルアプリケーション
-#２周目に突入
-#目標
+# ２周目に突入
+# 目標  
 ・テストをしっかりと書く  
 ・急ぎ足ではなく、噛み砕いて進める。  
 
-URL: <https://still-harbor-68313.herokuapp.com/>
+URL: <https://still-harbor-68313.herokuapp.com/>  
 これは、次の教材で作られたサンプルアプリケーションです。   
 [*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 [Michael Hartl](http://www.michaelhartl.com/) 著
